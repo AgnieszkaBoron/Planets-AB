@@ -3,3 +3,7 @@ This is my first draft on the planets.
 Author: Agnieszka Boron
 Affiliation: Scion
 Title: Paper about planets and starts.
+
+
+References:
+(from the reference.bib file)
