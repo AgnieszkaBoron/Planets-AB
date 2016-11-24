@@ -4,6 +4,7 @@ Author: Agnieszka Boron
 Affiliation: Scion
 Title: Paper about planets and starts.
 
+Data and results
 
 References:
 (from the reference.bib file)
